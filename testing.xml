@@ -1,0 +1,7 @@
+<suite name="Search Suite" parallel="methods" thread-count="4">
+    <test name="DuckDuckGoSearch">
+        <classes>
+            <class name="tests.DuckDuckGoTest" />
+        </classes>
+    </test>
+</suite>
