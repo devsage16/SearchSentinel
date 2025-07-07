@@ -30,7 +30,8 @@ public class DuckDuckGoTest extends BaseTest {
                 {"openAI"},
                 {"Veeva Systems"},
                 {"Java Tutorials"},
-                {"India News"}
+                {"India News"},
+                {"Veeva Vault"}
         };
     }
 
